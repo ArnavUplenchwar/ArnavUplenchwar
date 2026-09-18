@@ -24,13 +24,13 @@ An **undergraduate student at JIIT Noida** and **vibe coder**, developing my pro
 ### `02` / TECHNICAL SKILLS
 
 <p>
-  <img src="https://img.shields.io/badge/Python-67e8f9?style=for-the-badge&amp;logo=python&amp;logoColor=101524" alt="Python" />
-  <img src="https://img.shields.io/badge/C-a78bfa?style=for-the-badge&amp;logo=c&amp;logoColor=101524" alt="C" />
-  <img src="https://img.shields.io/badge/PyCharm-86efac?style=for-the-badge&amp;logo=pycharm&amp;logoColor=101524" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/VS_Code-f9a8d4?style=for-the-badge&amp;logoColor=101524" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Android_Studio-86efac?style=for-the-badge&amp;logo=androidstudio&amp;logoColor=101524" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Codex-67e8f9?style=for-the-badge&amp;labelColor=101524" alt="Codex" />
-  <img src="https://img.shields.io/badge/Antigravity-c4b5fd?style=for-the-badge&amp;labelColor=101524" alt="Antigravity" />
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-67e8f9?style=for-the-badge&amp;logo=python&amp;logoColor=101524" alt="Python" /></a>
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://img.shields.io/badge/C-a78bfa?style=for-the-badge&amp;logo=c&amp;logoColor=101524" alt="C" /></a>
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-86efac?style=for-the-badge&amp;logo=pycharm&amp;logoColor=101524" alt="PyCharm" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-f9a8d4?style=for-the-badge&amp;logoColor=101524" alt="Visual Studio Code" /></a>
+  <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android_Studio-86efac?style=for-the-badge&amp;logo=androidstudio&amp;logoColor=101524" alt="Android Studio" /></a>
+  <a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/Codex-67e8f9?style=for-the-badge&amp;labelColor=101524" alt="Codex" /></a>
+  <a href="https://www.antigravity.google/"><img src="https://img.shields.io/badge/Antigravity-c4b5fd?style=for-the-badge&amp;labelColor=101524" alt="Antigravity" /></a>
 </p>
 
 ### `03` / COLLABORATION & CONTACT
